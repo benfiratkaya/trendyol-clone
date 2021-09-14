@@ -1,7 +1,7 @@
-<p style="text-align:center;">
+<p align="center">
     <img width="175" src="https://cdn.dsmcdn.com/web/logo/ty-logo.svg" alt="Trendyol logo">
 </p>
-<p style="text-align:center;">
+<p align="center">
   React.js ile yapılmış Trendyol klonu
 </p>
 
