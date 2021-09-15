@@ -12,15 +12,10 @@ const shoppingCartReducer = (state = initialState, action) => {
         ...action.payload,
       };
     case t.REMOVE_PRODUCT:
-      return {
-        ...state,
-        ...action.payload,
-      };
+      delete state[action.payload];
+      return state;
     case t.SET_SHOPPING_CART:
-      return {
-        ...state,
-        ...action.payload,
-      };
+      return action.payload;
     default:
       return state;
   }
