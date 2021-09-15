@@ -38,7 +38,7 @@ yarn build
   - [ ] Buttons
   - [ ] Icons
   - [ ] Breadcrumb
-  - [ ] Scroll Up
+  - [x] Scroll Up
 - [ ] [Homepage](https://trendyol-clone.netlify.app)
   - [ ] Circled Slider
   - [ ] Campaign Banner
