@@ -16,7 +16,7 @@ const shoppingCartReducer = (state = initialState, action) => {
         ...state,
         ...action.payload,
       };
-    case t.UPDATE_SHOPPINGCART:
+    case t.SET_SHOPPING_CART:
       return {
         ...state,
         ...action.payload,

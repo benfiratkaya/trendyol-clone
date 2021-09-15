@@ -14,9 +14,9 @@ export const removeProductAction = (product) => {
   };
 };
 
-export const updateShoppingCartAction = (shoppingCart) => {
+export const setShoppingCartAction = (shoppingCart) => {
   return {
-    type: t.UPDATE_SHOPPINGCART,
+    type: t.SET_SHOPPING_CART,
     payload: shoppingCart,
   };
 };
