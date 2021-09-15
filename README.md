@@ -35,7 +35,6 @@ yarn build
   - [ ] Header
   - [x] Footer
 - [ ] Components
-  - [ ] Buttons
   - [ ] Icons
   - [ ] Breadcrumb
   - [x] Scroll Up

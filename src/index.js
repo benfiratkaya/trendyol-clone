@@ -1,16 +1,16 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { Provider } from "react-redux";
+import {Provider} from "react-redux";
 
 import store from "./redux/store";
-import Routes from "./utilities/routes";
-import reportWebVitals from "./utilities/reportWebVitals";
+import Routes from "./utils/routes";
+import reportWebVitals from "./utils/reportWebVitals";
 
 import "./styles/main.scss";
 
 ReactDOM.render(
   <Provider store={store}>
-    <Routes />
+    <Routes/>
   </Provider>,
   document.getElementById("root")
 );
