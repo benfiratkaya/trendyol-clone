@@ -33,7 +33,7 @@ yarn build
 
 - [ ] Layout
   - [ ] Header
-  - [ ] Footer
+  - [x] Footer
 - [ ] Components
   - [ ] Buttons
   - [ ] Icons

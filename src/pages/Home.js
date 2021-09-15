@@ -5,7 +5,7 @@ const Home = () => {
     <DefaultLayout>
       <div
         style={{
-          height: "5000px",
+          height: "1500px",
         }}
       >
         home!
