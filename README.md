@@ -30,6 +30,7 @@ yarn build
 ```
 
 # Özellikler
+
 - [ ] Layout
   - [ ] Header
   - [ ] Footer
@@ -39,9 +40,9 @@ yarn build
   - [ ] Breadcrumb
   - [ ] Scroll Up
 - [ ] [Homepage](https://trendyol-clone.netlify.app)
-    - [ ] Circled Slider
-    - [ ] Campaign Banner
-    - [ ] Sidebar
+  - [ ] Circled Slider
+  - [ ] Campaign Banner
+  - [ ] Sidebar
 - [ ] [Products](https://trendyol-clone.netlify.app/urunler)
   - [ ] Product Cards
   - [ ] Filters
@@ -60,9 +61,9 @@ yarn build
   - [ ] Sidebar
   - [ ] Payment
 - [ ] Auth
-    - [ ] [Login](https://trendyol-clone.netlify.app/giris)
-    - [ ] [Register](https://trendyol-clone.netlify.app/uyelik)
-    - [ ] [Forget Password](https://trendyol-clone.netlify.app/sifremiunuttum)
+  - [ ] [Login](https://trendyol-clone.netlify.app/giris)
+  - [ ] [Register](https://trendyol-clone.netlify.app/uyelik)
+  - [ ] [Forget Password](https://trendyol-clone.netlify.app/sifremiunuttum)
 
 # Bilgi
 
