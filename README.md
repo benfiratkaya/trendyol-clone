@@ -32,37 +32,38 @@ yarn build
 # Özellikler
 
 - [ ] Layout
-  - [ ] Header
-  - [x] Footer
+    - [x] Header
+    - [x] Footer
 - [ ] Components
-  - [ ] Icons
-  - [ ] Breadcrumb
-  - [x] Scroll Up
+    - [x] Button
+    - [x] Icons
+    - [ ] Breadcrumb
+    - [x] Scroll Up
 - [ ] [Homepage](https://trendyol-clone.netlify.app)
-  - [ ] Circled Slider
-  - [ ] Campaign Banner
-  - [ ] Sidebar
+    - [ ] Circled Slider
+    - [ ] Campaign Banner
+    - [ ] Sidebar
 - [ ] [Products](https://trendyol-clone.netlify.app/urunler)
-  - [ ] Product Cards
-  - [ ] Filters
+    - [ ] Product Cards
+    - [ ] Filters
 - [ ] [Product (Single)](https://trendyol-clone.netlify.app/urun)
-  - [ ] Product Detail
-  - [ ] Product Widget
-  - [ ] Similar Products
-  - [ ] Reviews
-  - [ ] More Product Details
-  - [ ] Product Description
-  - [ ] Report
-  - [ ] Recommended Collections
-  - [ ] Related Tags
+    - [ ] Product Detail
+    - [ ] Product Widget
+    - [ ] Similar Products
+    - [ ] Reviews
+    - [ ] More Product Details
+    - [ ] Product Description
+    - [ ] Report
+    - [ ] Recommended Collections
+    - [ ] Related Tags
 - [ ] [Shopping Cart](https://trendyol-clone.netlify.app/sepet)
-  - [ ] Basket Items
-  - [ ] Sidebar
-  - [ ] Payment
+    - [ ] Basket Items
+    - [ ] Sidebar
+    - [ ] Payment
 - [ ] Auth
-  - [ ] [Login](https://trendyol-clone.netlify.app/giris)
-  - [ ] [Register](https://trendyol-clone.netlify.app/uyelik)
-  - [ ] [Forget Password](https://trendyol-clone.netlify.app/sifremiunuttum)
+    - [ ] [Login](https://trendyol-clone.netlify.app/giris)
+    - [ ] [Register](https://trendyol-clone.netlify.app/uyelik)
+    - [ ] [Forget Password](https://trendyol-clone.netlify.app/sifremiunuttum)
 
 # Bilgi
 
