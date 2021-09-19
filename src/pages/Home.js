@@ -1,5 +1,7 @@
 import DefaultLayout from "../layouts/Default";
 
+import {Container} from "react-grid-system";
+
 const Home = () => {
   return (
     <DefaultLayout>
@@ -8,7 +10,9 @@ const Home = () => {
           height: "1500px",
         }}
       >
-        home!
+        <Container>
+          home!
+        </Container>
       </div>
     </DefaultLayout>
   );

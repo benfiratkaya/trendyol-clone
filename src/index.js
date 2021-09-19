@@ -6,7 +6,9 @@ import store from "./redux/store";
 import Routes from "./utils/routes";
 import reportWebVitals from "./utils/reportWebVitals";
 
+import "./utils/grid"
 import "./styles/main.scss";
+import "./styles/icomoon.scss"
 
 ReactDOM.render(
   <Provider store={store}>
